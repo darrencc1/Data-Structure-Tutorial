@@ -202,7 +202,7 @@ You are tasked with building a program that stores employee IDs in a hierarchica
 - The `Insert` method ensures the IDs are stored in sorted order.
 - The `InOrderTraversal` method retrieves the IDs in ascending order.
 
-### Exercise for the Student
+### Exercise To Use Tree
 
 #### Problem Statement
 Write a program to create a binary tree that stores integers. Implement methods to:
